@@ -52,4 +52,4 @@ def convert_pdf(path='provide path here', format='text', codec='utf-8'):
     return ''
 
 if __name__ == '__main__':
-    app.run(debug=True)PD
+    app.run(debug=True)
